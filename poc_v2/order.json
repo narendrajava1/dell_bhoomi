@@ -1,0 +1,8 @@
+{
+    "orderId": "1001",
+    "customerName": "John Doe",
+    "email": "john.doe@example.com",
+    "totalAmount": "450.75",
+    "country": "USA",
+    "state": "CA"
+  }
